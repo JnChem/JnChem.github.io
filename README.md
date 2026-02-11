@@ -18,7 +18,6 @@ Como **Dev Jr.**, meu diferencial está na dedicação em aplicar as melhores pr
 ### **Mobile Development**
 - Flutter
 - Dart
-- Consumo de APIs REST
 
 ### **Web Development**
 - React
