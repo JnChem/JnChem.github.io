@@ -1,47 +1,66 @@
-# 👋 Olá, sou a JnChem!
+# 🚀 Olá, eu sou a Jacinta!
 
-Bem-vindo! Sou desenvolvedora em início de carreira, apaixonada por criar experiências digitais intuitivas e funcionais.
+### **Dev Junior de Software | Mobile & Web**
 
-## 🚀 Sobre Mim
+Sou apaixonada por transformar linhas de código em experiências fluidas e funcionais.  
+Atualmente, foco minha carreira em **Mobile (Flutter)** e **Web (React)**, sempre priorizando código limpo, escalabilidade e interfaces que realmente facilitem a vida do usuário.
 
-Desenvolvedora **mobile** e **web** em constante aprendizagem, focada em transformar ideias em aplicações práticas e eficientes.
+Como **Dev Jr.**, meu diferencial está na dedicação em aplicar as melhores práticas de desenvolvimento.
 
-- 📱 Desenvolvimento mobile com **Flutter**
-- ⚛️ Desenvolvimento web com **React**
-- 🌱 Sempre em busca de novos desafios e aprendizagens
-- 💡 Interessada em tecnologia, inovação e resolução de problemas reais
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📂 Projetos em Destaque
-
-### 🔜 Em breve...
-Estou a trabalhar em projetos interessantes que estarão disponíveis em breve. Fique atento!
-
-## 📫 Vamos Conectar?
-
-Adoro trocar ideias sobre tecnologia, desenvolvimento e inovação!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jacinta-de-nascimento-chemane-80509b1b9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jacinta.n.chemane@gmail.com)
+- 📱 Especializando em **Flutter** para criar apps nativos de alta performance  
+- ⚛️ Criando interfaces web modernas e responsivas com **React**  
+- 🛠️ Focada em **Clean Code** e boas práticas de versionamento  
+- 🌱 Em constante evolução técnica e colaborativa  
 
 ---
 
-⭐ **"A jornada de mil quilómetros começa com um único passo."** - Lao Tzu
+## 🛠️ Tecnologias & Stack
 
-💻 Desenvolvido com dedicação por JnChem | 2025
+### **Mobile Development**
+- Flutter
+- Dart
+- Consumo de APIs REST
+
+### **Web Development**
+- React
+- HTML5
+- CSS3
+- JavaScript
+
+### **Ferramentas & Design**
+- Git & GitHub
+- Figma
+- VS Code
+
+---
+
+## 🎓 Educação & Formação
+
+- **Licenciatura em Tecnologias da Informação (TI)**
+
+---
+
+## 📂 Projetos em Destaque
+
+> **Em Desenvolvimento:**  
+> No momento, estou consolidando meus conhecimentos em um projeto Mobile e Web. Fique de olho no meu GitHub para os primeiros commits! 🚀
+
+1. **Nome do Projeto**  
+   *Aplicação mobile.*  
+   Tecnologias: React / Supabase  
+
+---
+
+## 📫 Vamos Conectar?
+
+Sempre aberta a feedbacks, colaborações em projetos open-source ou uma conversa sobre tecnologia.
+
+---
+
+> ⭐ **"A jornada de mil quilómetros começa com um único passo."** — Lao Tzu
+
+---
+
+<p align="center">
+<sub>Desenvolvido com dedicação por <strong>JnChem</strong> | 2026</sub>
+</p>
