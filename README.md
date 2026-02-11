@@ -3,7 +3,7 @@
 ### **Dev Jr de Software | Mobile & Web**
 
 Sou apaixonada por transformar linhas de código em experiências fluidas e funcionais.  
-Atualmente, foco minha carreira em **Mobile (Flutter)** e **Web (React)**, sempre priorizando código limpo, escalabilidade e interfaces que realmente facilitem a vida do usuário.
+Atualmente, foco minha carreira em **Mobile (Flutter)** e **Web (React)**, sempre priorizando código, escalabilidade e interfaces que realmente facilitem a vida do usuário.
 
 Como **Dev Jr.**, meu diferencial está na dedicação em aplicar as melhores práticas de desenvolvimento.
 
@@ -43,7 +43,8 @@ Como **Dev Jr.**, meu diferencial está na dedicação em aplicar as melhores pr
 ## 📂 Projetos em Destaque
 
 > **Em Desenvolvimento:**  
-> No momento, estou consolidando meus conhecimentos em um projeto Mobile e Web. Fique de olho no meu GitHub para os primeiros commits! 🚀
+> No momento, estou consolidando meus conhecimentos em um projeto Mobile e Web.
+> Fique de olho no meu GitHub para os primeiros commits! 🚀
 
 1. **Nome do Projeto**  
    *Aplicação mobile.*  
