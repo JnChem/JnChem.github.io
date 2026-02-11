@@ -1,6 +1,6 @@
 # 🚀 Olá, eu sou a Jacinta!
 
-### **Dev Junior de Software | Mobile & Web**
+### **Dev Jr de Software | Mobile & Web**
 
 Sou apaixonada por transformar linhas de código em experiências fluidas e funcionais.  
 Atualmente, foco minha carreira em **Mobile (Flutter)** e **Web (React)**, sempre priorizando código limpo, escalabilidade e interfaces que realmente facilitem a vida do usuário.
