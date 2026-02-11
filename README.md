@@ -8,8 +8,7 @@ Atualmente, foco minha carreira em **Mobile (Flutter)** e **Web (React)**, sempr
 Como **Dev Jr.**, meu diferencial está na dedicação em aplicar as melhores práticas de desenvolvimento.
 
 - 📱 Especializando em **Flutter** para criar apps nativos de alta performance  
-- ⚛️ Criando interfaces web modernas e responsivas com **React**  
-- 🛠️ Focada em **Clean Code** e boas práticas de versionamento  
+- ⚛️ Criando interfaces web modernas e responsivas com **React** 
 - 🌱 Em constante evolução técnica e colaborativa  
 
 ---
